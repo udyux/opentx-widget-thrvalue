@@ -28,5 +28,5 @@ Simply select the widget and configure the switch you use for arming.
 
 ## Screenshots
 
-<p><img src="/screenshots/tx16s-idleup-enabled.png" /><br></p>
-<p><img src="/screenshots/tx16s-idleup-disabled.png" /><br></p>
+<p><img src="/screenshots/tx16s-thrvalue-enabled.png" /><br></p>
+<p><img src="/screenshots/tx16s-thrvalue-disabled.png" /><br></p>
