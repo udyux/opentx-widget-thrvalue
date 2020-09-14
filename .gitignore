@@ -1,0 +1,3 @@
+*.luac
+.DS_Store
+package.json
