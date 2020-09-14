@@ -6,7 +6,7 @@ An OpenTX widget intended for the Jumper T16 and Radiomaster TX16S which display
 
 This script does not rely on telemetry. It does not reflect the actual craft's state and should not be used in situations where reliable data is critical. It is the user's responsibility to check for correct operation before use.
 
-> **IF IN DOUBT, DO NOT FLY!**
+**IF IN DOUBT, DO NOT FLY!**
 
 ## Options
 
